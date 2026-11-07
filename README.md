@@ -27,7 +27,7 @@ Music, film, worldbuilding, community, and code aren't separate hobbies for me. 
 | **Paperhand Beat Manager** | Desktop app for producers: catalog beats, auto-detect BPM and key, stamp producer tags on previews without touching masters, split stems, package buyer bundles. | Python · PySide6 · audio processing · Windows installer | [Repo](https://github.com/papioshu/paperhands-beat-tools) · [Releases](https://github.com/papioshu/paperhands-beat-tools/releases) |
 | **FLY WING GENESIS: FLYLIST** | Allowlist registration for the FLY WING GENESIS collection: wallet sign-in, server-side eligibility checks, and an admin console with audit trail and CSV exports. No transactions; balances are only read. | TypeScript · React · wagmi/viem · Supabase Edge Functions · Postgres · Cloudflare Pages | [Repo](https://github.com/papioshu/flywing-flylist) · [Live](https://chasingclouds.xyz) |
 | **OARA** | Original browser-first 3D action RPG: movement, combat, environments, and a full skating system with tricks, grinds, and scoring. | TypeScript · Vite · Three.js · Rapier physics | Private, in active development |
-| **PapertrailOS** | Desktop command center for running projects: one low-overhead place to organize work and keep systems in check. | Desktop app · TypeScript | Private, in development |
+| **PapertrailOS** | Two apps under one name: a desktop command center for organizing projects and keeping systems in check, and a lead tracker that researches, grades, and follows up on leads with approval-gated outreach. | Desktop app · TypeScript | [Lead tracker repo](https://github.com/papioshu/papertrailOS) · Command center private |
 | **Nimbus Generator** | Reusable generative collection engine. The core is collection-agnostic; each collection is a self-contained project. | Generative tooling · asset pipelines | Private, in development |
 | **BOMBSQUAD / BMBSQD** | Creative collective: media, music, identity, merch, and the site that ties it together. | Web · commerce integrations | [bombtheworld.io](https://bombtheworld.io) |
 
@@ -39,7 +39,7 @@ Music, film, worldbuilding, community, and code aren't separate hobbies for me. 
 <br />
 
 **Software & Developer Tools**
-- **PapertrailOS**: desktop command center for project organization and system management. *Private.*
+- **PapertrailOS**: desktop command center for project organization and system management (*private*), plus a [lead tracker](https://github.com/papioshu/papertrailOS) for lead research, grading, and follow-up. *In development.*
 
 **Games & Interactive Worlds**
 - **OARA**: original 3D action RPG with movement, combat, and skating systems. *Private, active.*
